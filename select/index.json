@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラーニング・トゥ・フライ",
+  "base_artist": "Tom Petty And The Heartbreakers",
+  "createdAt": "2026-02-15T14:37:02.204035Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Learning To Fly",
+      "artist": "Tom Petty and the Heartbreakers",
+      "has_synced": false,
+      "path": "select/pl_01_Learning_To_Fly_Tom_Petty_and_the_Heartbreakers.txt"
+    }
+  ]
+}
